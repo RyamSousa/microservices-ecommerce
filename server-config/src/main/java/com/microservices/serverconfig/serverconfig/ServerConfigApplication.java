@@ -1,13 +1,13 @@
-package com.microservices.shoppingcart.shoppingcart;
+package com.microservices.serverconfig.serverconfig;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ShoppingCartApplication {
+public class ServerConfigApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ShoppingCartApplication.class, args);
+		SpringApplication.run(ServerConfigApplication.class, args);
 	}
 
 }

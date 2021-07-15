@@ -1,4 +1,4 @@
-package com.microservices.shoppingcart.shoppingcart.model;
+package com.microservices.shoppingcart.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.redis.core.RedisHash;

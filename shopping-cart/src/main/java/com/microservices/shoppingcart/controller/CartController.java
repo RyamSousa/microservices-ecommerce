@@ -1,8 +1,8 @@
-package com.microservices.shoppingcart.shoppingcart.controller;
+package com.microservices.shoppingcart.controller;
 
-import com.microservices.shoppingcart.shoppingcart.model.Cart;
-import com.microservices.shoppingcart.shoppingcart.model.Item;
-import com.microservices.shoppingcart.shoppingcart.repository.CartRepository;
+import com.microservices.shoppingcart.model.Cart;
+import com.microservices.shoppingcart.model.Item;
+import com.microservices.shoppingcart.repository.CartRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

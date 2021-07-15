@@ -1,10 +1,10 @@
-package com.microservices.shoppingcart.shoppingcart;
+package com.microservices.serverconfig.serverconfig;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShoppingCartApplicationTests {
+class ServerConfigApplicationTests {
 
 	@Test
 	void contextLoads() {

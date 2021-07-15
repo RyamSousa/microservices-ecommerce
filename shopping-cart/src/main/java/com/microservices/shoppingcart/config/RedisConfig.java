@@ -1,4 +1,4 @@
-package com.microservices.shoppingcart.shoppingcart.config;
+package com.microservices.shoppingcart.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
